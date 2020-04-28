@@ -42,3 +42,5 @@
 References:
 08-H It All Adds Up.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

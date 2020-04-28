@@ -66,3 +66,5 @@ Death
 References:
 15-O Where Do We Go When We Die.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

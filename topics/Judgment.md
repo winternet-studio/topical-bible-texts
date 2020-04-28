@@ -46,3 +46,5 @@ Judgment
 References:
 09-I Your Day in Court.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

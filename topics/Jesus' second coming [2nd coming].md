@@ -46,3 +46,5 @@ Jesus' second coming
 References:
 07-G Don't Be Fooled.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

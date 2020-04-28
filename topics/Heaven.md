@@ -32,3 +32,5 @@ Heaven
 References:
 26-Z Is Heaven Real .pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

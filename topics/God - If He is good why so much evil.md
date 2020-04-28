@@ -25,3 +25,5 @@ Why did God create Lucifer with the capacity to choose to rebel? If you take awa
 References:
 04-D-Why So Much Suffering.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

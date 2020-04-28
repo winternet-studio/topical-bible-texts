@@ -76,3 +76,5 @@ Therefore forever must mean “until the end of the age.” (Matthew 13:40)
 References:
 17-Q Who Framed God.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

@@ -63,3 +63,5 @@ References:
 10-J Whatever Happened to Right.pdf
 John 1:12 and 2 Corinthians 12:9 was taken from 27-AA How to Prosper in Health-outline.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

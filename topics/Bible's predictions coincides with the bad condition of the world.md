@@ -28,3 +28,5 @@ Bible's predictions coincides with the bad condition of the world
 References:
 03-C Sleeping through the sirens.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

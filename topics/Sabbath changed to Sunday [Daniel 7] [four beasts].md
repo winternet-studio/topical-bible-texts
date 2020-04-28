@@ -48,3 +48,5 @@ Sabbath changed to Sunday (Daniel 7) (four beasts)
 References:
 12-L Unauthorized Change.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

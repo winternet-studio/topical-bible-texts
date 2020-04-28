@@ -95,3 +95,5 @@ Catholic Record, September 1, 1923 reads: “Sunday is our mark of authority. Th
 References:
 23-W The Mark of the Beast-AF.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

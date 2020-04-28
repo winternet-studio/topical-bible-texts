@@ -72,3 +72,5 @@ References:
 18-R It Pays to Read the Owner's Manual.pdf
 27-AA How to Prosper in Health-outline.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

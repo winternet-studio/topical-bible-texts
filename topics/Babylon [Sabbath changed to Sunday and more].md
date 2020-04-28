@@ -90,3 +90,5 @@ Foundation of the Divine system:
 References:
 20-T A City Called Confusion.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

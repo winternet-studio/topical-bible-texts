@@ -17,3 +17,5 @@ All the complexity of nature, the animals, and the human body tells there MUST b
 References:
 01-A A Moonwalker's Message
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

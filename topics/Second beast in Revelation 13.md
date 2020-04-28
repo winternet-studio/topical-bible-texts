@@ -48,3 +48,5 @@ Will we stand the test like Daniel’s friends did?
 References:
 24-X The Clock Runs Out on America's  Freedom.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

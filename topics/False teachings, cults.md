@@ -40,3 +40,5 @@ False teachings, cults
 References:
 13-M Cults and Caterpillars.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

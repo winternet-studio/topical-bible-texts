@@ -64,3 +64,5 @@ References:
 22 V God's Plan for Our Financial Security.pdf
 27-AA How to Prosper in Health-outline.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

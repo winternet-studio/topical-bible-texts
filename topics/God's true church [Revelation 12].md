@@ -55,3 +55,5 @@ So God's true church is characterized by those who “keep the commandments of G
 References:
 21-U Survivors of the Longest War.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

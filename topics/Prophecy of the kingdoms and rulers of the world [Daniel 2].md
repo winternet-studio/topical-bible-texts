@@ -33,3 +33,5 @@ does not mix with clay.” (Daniel 2:43)
 References:
 02-B-StrangeMan of mud and metal.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

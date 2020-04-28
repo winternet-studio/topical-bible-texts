@@ -48,3 +48,5 @@ LORD.” (Zechariah 11:12, 13)
 References:
 06-F History Is His Story.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)

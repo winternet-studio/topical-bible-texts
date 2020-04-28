@@ -36,3 +36,5 @@ Salvation
 References:
 05-E Move Your Hand.pdf
 -->
+
+Source: [https://github.com/winternet-studio/topical-bible-texts](https://github.com/winternet-studio/topical-bible-texts)
